@@ -346,7 +346,7 @@ static unsigned long rk3576_cpub_rates[] = {
 static unsigned long rk3576_gpu_rates[] = {
 	200000000, 300000000, 400000000, 500000000,
 	600000000, 700000000, 800000000, 900000000,
-	1000000063
+	950000000
 };
 
 static unsigned long rk3576_npu_rates[] = {
