@@ -305,7 +305,7 @@ static struct pvtpll_table rk3576_cpub_pvtpll_table[] = {
 
 static struct pvtpll_table rk3576_gpu_pvtpll_table[] = {
 	/* rate_hz, ring_sel, length, length_frac, length_low, length_low_frac */
-	ROCKCHIP_PVTPLL(950000000, 0, 19, 0),
+	ROCKCHIP_PVTPLL(950000000, 0, 18, 0),
 	ROCKCHIP_PVTPLL(900000000, 0, 20, 0),
 	ROCKCHIP_PVTPLL(800000000, 0, 21, 0),
 	ROCKCHIP_PVTPLL(700000000, 0, 21, 0),
